@@ -1,5 +1,5 @@
-function test(name,by,cy){
-    const age = cy-by;
+function test(name,ay,by){
+    const age = by-ay;
     const r = name+"is"+age;
     return r;
   }
